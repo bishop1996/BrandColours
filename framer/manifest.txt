@@ -56,7 +56,12 @@ node_modules/@framer/asci.click-to-copy/design/document.json
 node_modules/@framer/asci.click-to-copy/code/canvas.tsx
 node_modules/@framer/asci.click-to-copy/code/ClickToCopy.tsx
 node_modules/@framer/asci.click-to-copy/README.md
+design/images/rbgDYQCV14d8GPJy4SrkVR2EPdo.png
 design/images/gLmCdc0N96rdOtdk6iltItrF0.png
+design/images/aTa28GPX3RqmrshgQJGcWU73VNY.png
+design/images/ScM1qcH2xOEfnzLsFiDqPKbVA.png
+design/images/ImBPaWMAkDyF0OP63k7t0D7dg.png
+design/images/BOmm4mYMZLmC79ZQpYuIWe888M.png
 build/vendors.js
 build/framer.js
 index.html
